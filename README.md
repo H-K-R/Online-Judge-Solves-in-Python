@@ -1,7 +1,10 @@
-# Online-Judge-Solves-in-Python
 
 <div align="center">
- <h1>HackerEarth Problem Statements</h1>
+  Online-Judge-Solves-in-Python
+</div>
+
+<div align="center">
+ <h3>HackerEarth Problem Statements</h3>
  </br>
  </br>
 
