@@ -14,5 +14,5 @@
  </br>
  
 <div align="center">
-© Most Humayra Khanom
+© Most Humayra Khanom Rime
 </div>
